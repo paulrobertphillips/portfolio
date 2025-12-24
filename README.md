@@ -8,4 +8,3 @@ Profession: Data Science<br>
 Education Level: Masters<br>
 University: Syracuse University<br>
 Email: paul.rob.phillips@gmail.com<br>
-Phone: (616) 607-4446<br>
